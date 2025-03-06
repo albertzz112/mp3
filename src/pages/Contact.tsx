@@ -3,7 +3,7 @@ import { styled } from "styled-components";
 const StyledDiv = styled.div`
     background-color: mistyrose;
     width: 70%;
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     @media screen and (max-width: 1000px) {

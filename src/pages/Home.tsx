@@ -4,7 +4,7 @@ import profilePic from './profile.jpg';
 const StyledDiv = styled.div`
     background-color: mistyrose;
     width: 70%;
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     @media screen and (max-width: 1000px) {
